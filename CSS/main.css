@@ -183,3 +183,11 @@ button{
     margin-left: auto;
     margin-right: auto;
 }
+.contactform{
+    padding-top: 15px;
+}
+
+.contactinfo{
+    padding-top: 70px;
+    padding-bottom: 122px;
+}
