@@ -185,9 +185,14 @@ button{
 }
 .contactform{
     padding-top: 15px;
+    padding-left: 50px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .contactinfo{
     padding-top: 70px;
     padding-bottom: 122px;
+    margin-left: auto;
+    margin-right: auto;
 }
